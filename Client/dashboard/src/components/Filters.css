@@ -1,0 +1,28 @@
+
+
+.tabsClass .dropdown-toggle {
+    background: linear-gradient(to right, #4e54c8, #8f94fb); /* Set background color for dropdown toggle */
+    border: none; /* Remove border */
+    color: white; /* Set text color */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 20px; /* Add border radius */
+    transition: background-color 0.3s; /* Add transition effect */
+}
+
+.tabsClass .dropdown-toggle:hover {
+    background: linear-gradient(to right, #8f94fb, #4e54c8); /* Change background color on hover */
+}
+
+.tabsClass .btn-reset {
+    background: linear-gradient(to right, #4e54c8, #8f94fb); /* Set background color for reset button */
+    border: none; /* Remove border */
+    color: white; /* Set text color */
+    padding: 10px 20px; /* Add padding */
+    border-radius: 20px; /* Add border radius */
+    transition: background-color 0.3s; /* Add transition effect */
+    margin-left: 20px; /* Add left margin for spacing */
+}
+
+.tabsClass .btn-reset:hover {
+    background: linear-gradient(to right, #8f94fb, #4e54c8); /* Change background color on hover */
+}
